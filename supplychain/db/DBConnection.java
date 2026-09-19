@@ -7,7 +7,7 @@ public class DBConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/supplychain";
     private static final String USER = "root";
-    private static final String PASSWORD = "Ssu@2005"; // change if needed
+    private static final String PASSWORD = "placeholder for database password"; // change if needed
 
     public static Connection getConnection() {
 
